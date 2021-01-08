@@ -1,0 +1,1 @@
+# wordpress_theme_with_autoload_boilerplate
