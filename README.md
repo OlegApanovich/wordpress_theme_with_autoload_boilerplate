@@ -10,4 +10,4 @@ Please note we maximize simplify it keep main focus on a composer PSR-4 autoload
 That all. Theme already populated with some dummy data just activate new theme through your admin panel and you receive some var_dump data that was retrieved through autoloaded classes.
 
 ## How to use
-All autoloded classes we keep in **src** theme folder. You can change in composer.json file. Also in composer.json you can change default namespace. Right now we defined it as **Theme Dev**
+All autoloded classes we keep in **src** theme folder. You can change in composer.json file. Also in composer.json you can change default namespace. Right now we defined it as **ThemeDev**
