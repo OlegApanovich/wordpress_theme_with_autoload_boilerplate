@@ -12,6 +12,6 @@ That all. Theme already populated with some dummy data just activate new theme t
 ## How to use
 All autoloded classes we keep in **src** theme folder. You can change it in composer.json file. Also in composer.json you can change default namespace. Right now we defined it as **ThemeDev**
 
-You can define as many new classes as you want in your **src** folder. Please do not forget use folder name and namespace convention when doing it according to PSR standards other way aoutload do not see your newly created classes. As for an example purposes src folder already has some dummy classes with such convention naming.
+You can define as many new classes as you want in your **src** folder. Please do not forget use folder name and namespace convention when doing it according to PSR standards other way autoload do not see your newly created classes. As for an example purposes src folder already has some dummy classes with such convention naming.
 
 When your classes ready, you can just use it with **new ThemeDev\ClassName** construction anywhere in your code, no **include** statement needed anymore.  
